@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Use Cars</title>
+    <title>Used Cars</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
     <link href="styles/default.css" rel="stylesheet" type="text/css">
     <link href="styles/style.css" rel="stylesheet" type="text/css">
