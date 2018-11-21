@@ -3,7 +3,7 @@
     <title>Used Cars</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
     <link href="styles/default.css" rel="stylesheet" type="text/css">
-    <link href="styles/style.css" rel="stylesheet" type="text/css">
+    <link href="styles/style.css?t=1542809227602" rel="stylesheet" type="text/css">
     <style>
     .search{padding: 80px 125px; background-image: url(images/search_bg.jpg)}
     .links{background-color: #d4d4d4; padding: 75px 0px;}
