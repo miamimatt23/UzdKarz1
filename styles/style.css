@@ -1,0 +1,28 @@
+body{font-family: 'Open Sans'}
+.red, a.red{color: #bb162b}
+header{background-color: #e6e6e6; padding: 40px 0px;}
+.c-01{padding-right: 40px;}
+.c-02{font-size: 40px;}
+.c-03{font-size: 24px; padding: 0px 20px; border-right: 3px solid #000; line-height: 65px;}
+.c-04{font-size: 80px;}
+.c-05{padding: 10px 0px 25px; font-size: 46px;}
+.c-06{padding: 20px 25px; font-size: 20px; border-radius: 7px; margin-left: 20px;}
+.c-07{background-color: #bb162b; font-size: 35px; margin-top: 50px; padding: 15px 20px; border-radius: 10px;}
+.c-08{width: 33%; background-color: #bb162b; padding: 10px 0px; font-size: 32px; border-radius: 15px;} .c-08 img{height: 40px;}
+.c-09{padding-left: 15px;}
+.c-10{font-size: 64px; padding-bottom: 50px;}
+.c-11{border: 5px solid #fff;}
+.c-12{width: 550px;}
+.c-13{width: 700px; padding-left: 140px;}
+.c-14{font-size: 28px; padding-bottom: 8px;}
+.c-15{outline: none; border: 5px solid #000; font-size: 26px; padding: 5px 10px; font-family: 'Open Sans'; width: 100%} textarea.c-15{resize: vertical; height: 6em}
+.c-16{font-size: 24px; padding: 20px 0px 25px;}
+.c-17{font-size: 26px; border: 5px solid #bb162b; padding: 10px 15px;}
+.c-18{padding: 0px 15px; box-sizing: border-box; width: 24.5%;}
+.c-19{font-size: 28px;}
+.c-20{border: 5px solid #bb162b; width: 450px;}
+.c-21{padding: 15px 0px; font-size: 42px; background-color: #bb162b}
+.c-22{font-size: 28px; padding-right: 30px;}
+.c-24{width: 100px; padding-right: 20px;}
+.c-25{padding-bottom: 20px;}
+.c-26{padding: 30px;}
